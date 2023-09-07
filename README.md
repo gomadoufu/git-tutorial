@@ -143,11 +143,3 @@ git commit -m "initial commit"
 
 Q11. git status を実行して、結果を確かめてください。
 Q12. Q10 で実行した結果と見比べてください。
-
-コミットができたら、その結果を GitHub にアップロードしましょう。アップロードする操作を push と呼びます。
-
-git push でプッシュできます。
-
-```sh
-git push
-```
